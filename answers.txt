@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Version control is important. It is also a convenient way to collaborate or submit work for a class.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Business. Example: marketing/advertisements
