@@ -5,3 +5,7 @@ Answer: Version control is important. It is also a convenient way to collaborate
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Business. Example: marketing/advertisements
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches into one but a rebase will move the branch and attach it to the main branch
